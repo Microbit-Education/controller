@@ -15,4 +15,4 @@ basic.showLeds(`
     . . . . .
     `)
 radio.setGroup(33)
-basic.showIcon(IconNames.Yes)
+basic.showIcon(IconNames.Heart)
